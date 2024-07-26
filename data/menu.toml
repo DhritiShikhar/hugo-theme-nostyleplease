@@ -1,8 +1,8 @@
-[[entries]]
-title = "Kubernetes"
+# [[entries]]
+# title = "Kubernetes"
 
-  [entries.post_list]
-  section = "kubernetes"
+#   [entries.post_list]
+#   section = "kubernetes"
 
 [[entries]]
 title = "Golang"
